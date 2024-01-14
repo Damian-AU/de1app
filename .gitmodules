@@ -24,7 +24,7 @@
 [submodule "de1plus/skins/DSx"]
 	path = de1plus/skins/DSx
 	url = https://github.com/Damian-AU/DSx
-[submodule "de1plus/skins/DSx"]
+[submodule "de1plus/skins/DSx2"]
 	path = de1plus/skins/DSx2
 	url = https://github.com/Damian-AU/DSx2
 [submodule "de1plus/plugins/DPx_Screen_Saver"]
